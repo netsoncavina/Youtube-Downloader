@@ -18,6 +18,7 @@
   "homepage": "https://github.com/netsoncavina/Youtube-Downloader#readme",
   "dependencies": {
     "axios": "^0.24.0",
+    "ejs": "^3.1.6",
     "express": "^4.17.2",
     "node": "^17.3.0",
     "ytdl-core": "^4.9.2"
