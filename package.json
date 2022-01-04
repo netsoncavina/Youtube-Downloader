@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/netsoncavina/Youtube-Downloader/issues"
   },
-  "homepage": "https://github.com/netsoncavina/Youtube-Downloader#readme"
+  "homepage": "https://github.com/netsoncavina/Youtube-Downloader#readme",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "express": "^4.17.2",
+    "node": "^17.3.0"
+  }
 }
